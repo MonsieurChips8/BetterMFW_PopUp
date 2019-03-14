@@ -1,0 +1,40 @@
+body{
+	background-color: #E2E5EE;
+	opacity: 0.5;
+}
+
+#content {
+	background-color: #3556DF;
+	border: 3px solid gray;
+	padding: 200px 200px auto 200px;
+	margin: 100px;
+}
+
+#header {
+	padding: 3px;
+	background-color: black;
+	color: white;
+	border: 2px solid black;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 40px 200px 50px 200px;
+
+}
+
+
+#B1 {
+	margin-left: 350px;
+	margin-bottom: 50px;
+	border: 5px solid gray;
+	font-size: 30px;
+}
+
+#B2 {
+	float: right;
+	margin-right: 350px;
+	margin-bottom: 50px;
+	border: 5px solid gray;
+	font-size: 30px;
+
+}
+
